@@ -8,7 +8,6 @@ A command-line interface (CLI) tool for managing API requests. This tool provide
 - Easy-to-use command interface
 - Built-in help and list commands
 - Configurable API credentials through YAML
-- Support for journal transfers with sweep account functionality
 
 ## Prerequisites
 
