@@ -1,6 +1,6 @@
 # CLI Curls
 
-A command-line interface (CLI) tool for managing API requests, with a specific focus on Alpaca API journal transfers. This tool provides a structured way to organize and execute curl commands through shell scripts.
+A command-line interface (CLI) tool for managing API requests. This tool provides a structured way to organize and execute curl commands through shell scripts.
 
 ## Features
 
