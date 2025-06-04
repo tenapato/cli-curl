@@ -1,4 +1,6 @@
-# CLI Curls
+# CLI Curl
+
+![CLI Curls Logo](img/logo.png)
 
 A command-line interface (CLI) tool for managing API requests. This tool provides a structured way to organize and execute curl commands through shell scripts.
 
